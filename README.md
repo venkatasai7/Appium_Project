@@ -2,7 +2,7 @@
 ![Sample Image](sample%20image.png)
 
 
-*****Watch the attached demo video to view the end-to-end automation visualization.*****
+#*****Watch the attached demo video to view the end-to-end automation visualization.*****
 
 
 ## 📌 Overview
