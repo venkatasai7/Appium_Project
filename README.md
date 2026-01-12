@@ -65,6 +65,9 @@ Appium is an **open-source mobile automation framework** used to test mobile app
 - Open my **portfolio website**
 - Scroll smoothly through the webpage until the end
 
+▶️ [Watch Demo Video](Demo%20Videos/Portfolio_Scrolling.mp4)
+
+
 **Skills Demonstrated:**
 - Mobile web automation
 - Safari browser automation
