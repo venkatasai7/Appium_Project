@@ -39,6 +39,12 @@ Appium is an **open-source mobile automation framework** used to test mobile app
   - iOS Version
   - Model Details
 
+- **Video 1:** Demonstrates iOS **Settings App automation** (Settings → General → About)
+
+![Settings About Screen](Demo Videos/About Phone.mov)
+
+
+
 **Skills Demonstrated:**
 - Native iOS automation
 - App navigation using XCUITest
