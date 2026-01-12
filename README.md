@@ -2,6 +2,9 @@
 ![Sample Image](sample%20image.png)
 
 
+**Watch the attached demo video to view the end-to-end automation visualization.**
+
+
 ## 📌 Overview
 This repository showcases my hands-on experience with **mobile automation testing** using **Appium and Python**.  
 The project focuses on automating real iOS simulator interactions to validate both **native app workflows** and **mobile web workflows**.
