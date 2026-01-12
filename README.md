@@ -1,4 +1,6 @@
 # 📱 Appium Automation Project
+![Sample Image](sample%20image.png)
+
 
 ## 📌 Overview
 This repository showcases my hands-on experience with **mobile automation testing** using **Appium and Python**.  
