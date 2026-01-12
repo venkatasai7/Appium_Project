@@ -82,8 +82,3 @@ Appium is an **open-source mobile automation framework** used to test mobile app
 
 ---
 
-## 🚀 Future Enhancements
-- Android automation support
-- Test reporting using Allure
-- CI/CD integration with GitHub Actions
-- Parallel execution support
